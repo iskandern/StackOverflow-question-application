@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StackOverflow questions</string>
+    <string name="question_example"><![CDATA[<p>I have an <code>EditText</code> and a <code>Button</code> in my layout.</p>\n<p>After writing in the edit field and clicking on the <code>Button</code>, I want to hide the virtual keyboard when touching outside the keyboard. I assume that this is a simple piece of code, but where can I find an example of it?</p>\n]]></string>
+</resources>
